@@ -133,8 +133,8 @@ img {vertical-align: middle;}
  
   background-attachment: fixed;
 }
-.topbar{margin-top:0px;margin-bottom:1px;background-image:url('log.jpg') ;color:white;width:90.7%;display:block;
-                 float:right;padding :60px}
+.topbar{margin-top:0px;margin-bottom:1px;background-image:url('wimg/log.jpg') ;color:white;width:100%;display:block;
+                 float:right}
 
 .downbk{padding:200px;background-image:url('wimg/bk0f.png');width:69.5%;margin-top:0px;float:left;margin-left:-5px;position:relative;height:150px;}
 
@@ -202,18 +202,18 @@ li a:hover {
  </style>
 </head>
 <body style=
-  "background-image: url('blur2.jpg');
+  "background-image: url('wimg/blur2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;">
 
-<h2 class="topbar" style="text-align:center;" ><a href="p7.html"><img class="logo" src="IIT(ISM) logo.jpg" ></a>भारतीय प्रौद्योगिकी संस्थान  (भारतीय खनि विद्यापीठ), धनबाद <br>
+<h2 class="topbar" style="text-align:center;" ><a href="p8.html"><img class="logo" src="wimg/IIT(ISM) logo.jpg" ></a>भारतीय प्रौद्योगिकी संस्थान  (भारतीय खनि विद्यापीठ), धनबाद <br>
 INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES), DHANBAD</h2>
 
 
 <ul class="ul1">
   <li class="dropdown li1" >
    <a href="#home" class="dropbtn">About</a>
-   <div class="dropdown-content"  style="background-image:url('bckf1.jpg');background-repeat:no-                      repeat;width:auto;">
+   <div class="dropdown-content"  style="background-image:url('wimg/bckf1.jpg');background-repeat:no-                      repeat;width:auto;">
 <ul style="display:block;float:left;list-style-type: none;margin-left:20px;text-size:5px;">
       <li> <a href="ov.html">overview</a></li>
       <li>  <a href="Inst.html">institute crest</a></li>
@@ -230,7 +230,7 @@ INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES), DHANBAD</h2>
   </li>
   <li class="dropdown li1">
   <a href="#">Administration</a>
-  <div class="dropdown-content"  style="background-image:url('bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
+  <div class="dropdown-content"  style="background-image:url('wimg/bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
   <ul style="display:block;float:left;list-style-type: none;margin-left:20px;text-size:5px;">
       <li> <a href="pdfs/adm-GB.pdf">Governing Body</a></li>
       <li>  <a href="Admin-cm.html">Chairman</a></li>
@@ -251,7 +251,7 @@ INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES), DHANBAD</h2>
 </li>
   <li class="dropdown li1">
     <a href="#" class="dropbtn">Academics</a>
-      <div class="dropdown-content"  style="background-image:url('bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
+      <div class="dropdown-content"  style="background-image:url('wimg/bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
   <ul style="display:block;float:left;list-style-type: none;margin-left:20px;text-size:5px;">
       <li> <a href="#">Departments and Centers</a></li>
       <li>  <a href="pdfs/acd-D&A.pdf">Deans and Associate Deans</a></li>
@@ -274,7 +274,7 @@ INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES), DHANBAD</h2>
   </li>
   <li class="dropdown li1">
   <a href="#">Admission</a>
-  <div class="dropdown-content"  style="background-image:url('bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
+  <div class="dropdown-content"  style="background-image:url('wimg/bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
   <ul style="display:block;float:left;list-style-type: none;margin-left:20px;text-size:5px;">
       <li> <a href="Adm-Jee.html">JEE(Advanced)</a></li>
       <li>  <a href="pdfs/ads-foreign_students.pdf">Foreign Students</a></li>
@@ -299,7 +299,7 @@ INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES), DHANBAD</h2>
   <a href="camplife.html">Campus Life</a></li>
   <li class="dropdown li1">
   <a href="#">Research</a>
-  <div class="dropdown-content"  style="background-image:url('bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
+  <div class="dropdown-content"  style="background-image:url('wimg/bckf1.jpg');background-repeat:no-                        repeat;width:800px;">
   <ul style="display:block;float:left;list-style-type: none;margin-left:20px;text-size:5px;">
       <li> <a href="pdfs/rs-DA.pdf">Dean And AssociateDeans</a></li>
       <li>  <a href="pdfs/rs-PHD.pdf">Ph.D Manual</a></li>
@@ -315,34 +315,29 @@ INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES), DHANBAD</h2>
       </ul>
       </div>
   </li>
-
-
 </ul>
+
+
+
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img1.jpg" style="width:100%;height:500px;">
+  <img src="wimg/img1.jpg" style="width:100%;height:500px;">
   <div class="text">Campus</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="img2.jpg" style="width:100%;height:500px;">
+  <img src="wimg/img2.jpg" style="width:100%;height:500px;">
   <div class="text">Lecture Hall</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="img3.jpg" style="width:100%;height:500px;">
+  <img src="wimg/img3.jpg" style="width:100%;height:500px;">
   <div class="text">Convocation</div>
 </div>
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
 
 <script>
 var slideIndex = 1;
@@ -372,6 +367,18 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
 
 <ul style="background-color:#5D6D7E;opacity:0.9;border:2px solid grey;width:21%;height:470px;position:relative;float:left";margin:;>
 <h2>Quick Links</h2>
@@ -411,17 +418,17 @@ function showSlides(n) {
 <div class="slideshow-container-for-bottom" style="margin-left:10px;">
   <div class="mySlides2">
    <h3 style="text-align:center;background-color:lightgrey;padding:10px;margin:0px;border:5px solid grey"> achievers  from ISM</h3>
-       <img src="ac1.jpg" style="width:250px;height:280px;">
+       <img src="wimg/ac1.jpg" style="width:250px;height:280px;">
   </div>
 
   <div class="mySlides2">
    <h3 style="text-align:center;background-color:lightgrey;padding:10px;margin:0px;border:5px solid grey"> achievers  from ISM</h3>
-    <img src="ac2.jpg" style="width:300px">
+    <img src="wimg/ac2.jpg" style="width:300px">
   </div>
 
   <div class="mySlides2">
   <h3 style="text-align:center;background-color:lightgrey;padding:10px;margin:0px;border:5px solid grey"> achievers  from ISM</h3>
-    <img src="ac3.jpg" style="width:250px">
+    <img src="wimg/ac3.jpg" style="width:250px">
   </div>
 
   <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
@@ -455,23 +462,18 @@ function showSlides(n, no) {
 <div class="slideshow-container-for-bottom">
   <div class="mySlides3">
    <h3 style="text-align:center;background-color:lightgrey;padding:10px;margin:0px;border:5px solid grey"> Aluminus Awards</h3>
-    <img src="abl1.jpg" style="width:250px;height:280px;">
+    <img src="wimg/abl1.jpg" style="width:250px;height:280px;">
   </div>
 
   <div class="mySlides3">
    <h3 style="text-align:center;background-color:lightgrey;padding:10px;margin:0px;border:5px solid grey"> Aluminus Awards</h3>
-    <img src="abl2.jpeg" style="width:250px;height:280px;">
+    <img src="wimg/abl2.jpeg" style="width:250px;height:280px;">
   </div>
 
   <div class="mySlides3">
     <h3 style="text-align:center;background-color:lightgrey;padding:10px;margin:0px;border:5px solid grey"> Aluminus Awards</h3>
-    <img src="abl3.jpg" style="width:250px;height:280px;">
+    <img src="wimg/abl3.jpg" style="width:250px;height:280px;">
   </div>
-
-  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
-  <a class="next-for-bottom" onclick="plusSlides(1, 0)">&#10095;</a>
-</div>
-</div>
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
@@ -485,19 +487,27 @@ function currentSlide(n) {
 }
 
 function showSlides(n) {
-  var j;
+  var i;
   var slides = document.getElementsByClassName("mySlides3");
+  var dots = document.getElementsByClassName("dot");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
-  for (j= 0; j < slides.length; j++)
-  {
+  for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";  
   }
-  
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
 }
 </script>
+
+  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="next-for-bottom" onclick="plusSlides(1, 0)">&#10095;</a>
+</div>
+</div>
+
 
 <div class="downbk1">
 <h3 style="text-align:center;color:black;margin-bottom:1px;">IIT(ISM) Fests</h3>
